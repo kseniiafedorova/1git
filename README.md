@@ -1,6 +1,6 @@
 # 1git
 {
   "email": "kseniiafedorova@gmail.com",
-  "password": "Q123456q",
+  "password": "7778888",
   "remember": false
 }
